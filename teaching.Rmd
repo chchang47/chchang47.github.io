@@ -1,0 +1,24 @@
+---
+title: "Teaching and Mentoring"
+---
+
+### Philosophy
+
+I view teaching as a co-creative process between an instructor and their students. In my course design, I emphasize:
+
+* materials that target different learning modalities;
+* opportunities for learning both inside and outside the classroom;
+* gaining confidence in modern scientific computing and quantitative analysis regardless of previous training;
+* problem solving and peer-teaching activities to facilitate student mastery and agency;
+* curiosity, the joy of discovery, civility, and inclusivity.
+
+### Experience
+
+I highlight several exemplar teaching and mentoring experiences below.
+
+* [EEB 504](https://eeb504.github.io/EEB504/): Scientific Computing for Biologists
+    + I was the *Instructor of Record* and developed a [one-credit course](https://eeb504.github.io/EEB504/) focused on version control, (academic) website development, using APIs to query data from large ecological repositories (e.g. [NEON](https://www.neonscience.org/)), and a high-level introduction to random forests. This course served senior undergraduate and graduate students.
+* [NIMBioS Summer Research Experience for Undergraduates](http://www.nimbios.org/sre/sre2018_interactions_proj)
+    + I mentored a team of three undergraduates who modeled the co-harvest of plants and seed disperser animals, which is a major tropical conservation issue.
+* **Pedagogical training**: I have pursued formal pedagogical training from the [Center for the Integration of Research, Teaching, and Learning](https://teaching.utk.edu/) and the [McGraw Center](https://mcgraw.princeton.edu/) where I earned a certificate from the Teaching Transcript Program.
+* I have also led informal seminars focused on building computational skills for [conservation practitioners in China](https://rpubs.com/chwchang/RintroCEPF).

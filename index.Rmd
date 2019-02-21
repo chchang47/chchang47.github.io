@@ -1,0 +1,36 @@
+---
+title: "Charlotte H. Chang"
+---
+
+<center>
+![](static_files/IMG_2811.jpg){
+width=100% }
+<br>
+
+Independent Research Fellow <br>
+[National Institute for Mathematical and Biological Synthesis](http://www.nimbios.org/personnel/pd_Chang) <br>
+University of Tennessee, Knoxville <br>
+
+__Hats that I wear:__ <br>
+Conservation social scientist <br>
+Quantitative Ecologist <br>
+Birding enthusiast <br>
+Fan of dogs, grandmas, and chilies <br>
+
+<br>
+<br>
+
+## Contact me:
+
+[`r fontawesome::fa(name="envelope",height=95)`](mailto:chchang@nimbios.org) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[`r fontawesome::fa(name="github",height=95)`](https://github.com/charlottehchang)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[`r fontawesome::fa(name="twitter",height=95)`](https://twitter.com/harpactes) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[`r icon::ai(name="google-scholar",size=5)`](https://scholar.google.com/citations?user=ZTPakfgAAAAJ&hl=en&oi=ao)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[`r icon::ai(name="cv", size=5)`](https://github.com/charlottehchang/charlottehchang.github.io/blob/master/static_files/CChangCV.pdf)
+
+</center>
+
+

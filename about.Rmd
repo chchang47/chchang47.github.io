@@ -1,0 +1,33 @@
+---
+title: "About me"
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(icon)
+```
+
+<img src="static_files/Chang_HS_2019.jpg" alt="CHC" style="height: 450px; width: 350px; padding-right: 10px;" align="left"> 
+
+I am an Independent Research Fellow at the National Institute for Mathematical and Biological Synthesis at the University of Tennessee, Knoxville. My research combines theoretical and statistical models and broadly focuses on socio-ecological systems to improve conservation science and practice. I develop models and methods for researchers and practitioners to quantify how different stakeholders interact with the environment, ranging from conservation constituencies in different countries to illicit wildlife hunting to managing agroforests to better support habitat specialist taxa.   
+
+In all of my projects, I work with local community leaders, practitioners, and colleagues. My collaborators are leaders in conservation science and practice in the US, China, and India, and include [Ruichang Quan (Xishuangbanna Tropical Botanical Garden (XTBG), Chinese Academy of Sciences), Mingxia Zhang (XTBG)](http://abce.xtbg.cas.cn/people_18981/201406/t20140612_239607.html), [Sophie Williams (Bangor University and XTBG)](http://www.sophiewilliams.org/), [Krithi Karanth (Wildlife Conservation Society, India and Centre for Wildlife Studies)](http://www.conservationindia.org/author/krithi), [Kailin Kroetz](http://www.rff.org/people/profile/kailin-kroetz), [Yuta Masuda](https://www.nature.org/en-us/about-us/who-we-are/our-people/yuta-masuda-bio/), and [Zhijun Ma (Fudan University)](http://www.gs.fudan.edu.cn/lifeenglish/05/a9/c829a1449/page.psp). I have benefited from generous mentorship and I seek to foster inclusive excellence in society and science through [research mentoring](http://www.nimbios.org/sre/sre2018_interactions_proj), community service, and [structured academic programs](https://cfwstem.weebly.com/about.html).
+
+<br>
+<br>
+<br>
+
+<center>
+
+## Ways to get in touch:
+
+[`r fontawesome::fa(name="envelope",height=95)`](mailto:chchang@nimbios.org) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[`r fontawesome::fa(name="github",height=95)`](https://github.com/charlottehchang)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[`r fontawesome::fa(name="twitter",height=95)`](https://twitter.com/harpactes) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[`r icon::ai(name="google-scholar",size=5)`](https://scholar.google.com/citations?user=ZTPakfgAAAAJ&hl=en&oi=ao)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[`r icon::ai(name="cv", size=5)`](https://github.com/charlottehchang/charlottehchang.github.io/blob/master/static_files/CChangCV.pdf)
+
+</center>
+

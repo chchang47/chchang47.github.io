@@ -1,0 +1,16 @@
+name: "Charlotte-H-Chang"
+output_dir: "."
+navbar:
+  title: "Charlotte H. Chang"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Research Projects"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+output:
+  html_document:
+    css: style.css
