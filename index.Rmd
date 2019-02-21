@@ -29,7 +29,7 @@ Fan of dogs, grandmas, and chilies <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [`r icon::ai(name="google-scholar",size=5)`](https://scholar.google.com/citations?user=ZTPakfgAAAAJ&hl=en&oi=ao)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[`r icon::ai(name="cv", size=5)`](https://github.com/charlottehchang/charlottehchang.github.io/blob/master/static_files/CChangCV.pdf)
+[`r icon::ai(name="cv", size=5)`](https://charlottehchang.github.io/static_files/CChangCV.pdf)
 
 </center>
 
