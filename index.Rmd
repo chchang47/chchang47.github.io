@@ -7,9 +7,10 @@ title: "Charlotte H. Chang"
 width=100% }
 <br>
 
-Independent Research Fellow <br>
-[National Institute for Mathematical and Biological Synthesis](http://www.nimbios.org/personnel/pd_Chang) <br>
-University of Tennessee, Knoxville <br>
+David H. Smith Conservation Research Fellow <br>
+Research Assistant Professor <br>
+Environmental Analysis Program & Biology Department <br>
+Pomona College <br>
 
 __Hats that I wear:__ <br>
 Conservation social scientist <br>
@@ -22,7 +23,7 @@ Fan of dogs, grandmas, and chilies <br>
 
 ## Contact me:
 
-[`r fontawesome::fa(name="envelope",height=95)`](mailto:chchang@nimbios.org) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[`r fontawesome::fa(name="envelope",height=95)`](mailto:chchang@pomona.edu) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [`r fontawesome::fa(name="github",height=95)`](https://github.com/charlottehchang)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [`r fontawesome::fa(name="twitter",height=95)`](https://twitter.com/harpactes) 
