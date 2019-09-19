@@ -20,10 +20,10 @@ In all of my projects, I work with local community leaders, practitioners, and c
 
 ## Ways to get in touch:
 
-[`r fontawesome::fa(name="envelope",height=95)`](mailto:chchang@pomona.edu) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[`r fontawesome::fa(name="github",height=95)`](https://github.com/charlottehchang)
+[`r icon::fa(name="envelope", size=5)`](mailto:chchang@pomona.edu) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[`r icon::fa(name="github",size=5)`](https://github.com/charlottehchang)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[`r fontawesome::fa(name="twitter",height=95)`](https://twitter.com/harpactes) 
+[`r icon::fa(name="twitter",size=5)`](https://twitter.com/harpactes) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [`r icon::ai(name="google-scholar",size=5)`](https://scholar.google.com/citations?user=ZTPakfgAAAAJ&hl=en&oi=ao)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
