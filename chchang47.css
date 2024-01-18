@@ -1,0 +1,114 @@
+@import url('http://fonts.googleapis.com/css?family=Overpass');
+
+body {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #F4FBF9;
+    font-family:'Overpass-Light','Helvetica','Arial',sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+    color: #888;
+    opacity: 1.00;
+    width:85%;
+    max-width:1080px;
+}
+
+img.profpic {
+    height: 185px;
+    padding: 0px 5px 5px 5px;
+    float:right;
+    max-width:270px;
+}
+
+h2{ 
+    border-bottom-style:solid; 
+    color : #65686C;
+    border-color: #65686C;
+    border-width:2px; 
+    padding-left:10px;
+}
+
+h3 {
+    font-size: 24px;
+    padding: 5px;
+    line-height: 30px;
+    margin: 0px;
+    margin-left: 15px;
+    margin-top: 10px;
+    font-family: 'Overpass-Light','HelveticaNeue',sans-serif;
+    text-transform: uppercase;
+    color: #0057B8;
+    float: right;
+}
+
+h4{ 
+    border-bottom-style:dotted; 
+    border-color:#65686C;
+    border-width:2px; 
+    padding-left:10px;
+}
+
+p { 
+    text-align:justify; 
+    padding:0px 25px;}
+
+li {
+    padding:3px;
+}
+
+ul.b {
+    margin: 2em;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+}
+
+li.b {
+    padding: 0;
+}
+
+a {color: #0057B8; text-decoration: none;}
+a:visited {color: #0057B8;}
+a:hover {text-decoration: underline;}
+
+td.a {
+    vertical-align:top;
+    text-align:center;
+    padding-top:1.1em;
+    font-weight:800;
+    width:120px;
+    font-size:11px;
+}
+
+td.p {
+    vertical-align:top;
+    padding-left:15px;
+    padding-top:0.8em;
+}
+
+ul.p {
+    list-style:none;
+    padding:0;
+    padding-left:10px;
+    margin:0;
+    line-height:1;
+}
+
+span.highlight {
+        color: rgb(4, 0, 255);
+    }
+
+img {
+  max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0px auto;
+    padding:2px;
+
+}
+
+
