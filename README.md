@@ -1,7 +1,7 @@
 # Personal website for Charlotte Chang
 
 This is a personal website for [Charlotte 
-Chang](https://charlottehchang.github.io). I am a fan of dogs, grandmas, 
+Chang](https://chang.eco). I am a fan of dogs, grandmas, 
 birds, chilies, soup noodle, and open-source software. I have different 
 hats that I wear depending on projects that I'm working on; my projects 
 span social-ecological systems, machine learning, conservation social 
